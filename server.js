@@ -295,7 +295,7 @@ const restaurants = [
       {id: 303,
         name: "Classic Veggie Craver (10cm)",
         price: 169,
-        imageId: "FOOD_CATALOG/IMAGES/CMS/…e-8072-f41e1d1534d1.png",
+        imageId: "FOOD_CATALOG/IMAGES/CMS/2024/8/27/139b57b9-fecb-4a85-ab12-04ea966aa69e_ea75b715-9b5c-4950-bf05-072032803796.png",
         description:
           "A delicious veggie patty made with chickpeas and green peas tossed in garlic and mint mayo, topped with fresh lettuce, tomato, capsicum, onion. Serving size - 168 g/292 kcal. Allergens - Contains wheat, rye, barley, oats, milk, soy, cashew nuts.",
         isVeg: 1,
