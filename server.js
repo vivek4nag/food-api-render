@@ -1219,7 +1219,7 @@ const restaurants = [
         price: 239,
         imageId: "d4836e8d08bb32f98b9f4659b4b7d60a",
         description:
-          "FOOD_CATALOG/IMAGES/CMS/2024/10/1/aade9cc4-110b-42cd-9b5f-c53e62045c7a_39ce430c-e372-4e06-9ca5-b6a67cf99621.jpg",
+          "Delicious crispi companion for your chai or coffee",
         isVeg: 1,
         rating: "4.0",
         ratingCount: "162 ratings",
